@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node ./Aplicacion_Pelicula/index.js",
+    "start:persona": "node ./Aplicacion_Persona/index.js",
+    "start:libro": "node ./Aplicacion_Libro/index.js"
+  },
+  "dependencies": {
+    "cryptr": "^6.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
